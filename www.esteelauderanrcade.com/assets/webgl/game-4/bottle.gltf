@@ -1,0 +1,110 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.1.45",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Bottle"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "goldSmoothMaterial",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.8796225786209106,
+                    0.7230553030967712,
+                    0.5332766175270081,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.20999999344348907
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Bottle",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 1677,
+            "max" : [
+                0.31410831212997437,
+                1.6795251369476318,
+                0.316562682390213
+            ],
+            "min" : [
+                -0.3123623728752136,
+                0.004147255793213844,
+                -0.30990833044052124
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 1677,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5123,
+            "count" : 6252,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 20124,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 20124,
+            "byteOffset" : 20124
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 12504,
+            "byteOffset" : 40248
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 52752,
+            "uri" : "bottle.bin"
+        }
+    ]
+}

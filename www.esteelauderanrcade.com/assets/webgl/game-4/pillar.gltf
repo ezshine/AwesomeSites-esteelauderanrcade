@@ -1,0 +1,190 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.1.45",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Bottom_Gold"
+        },
+        {
+            "mesh" : 1,
+            "name" : "Capsule_Gold"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "goldSmoothMaterial",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.8796225786209106,
+                    0.7230553030967712,
+                    0.5332766175270081,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.20999999344348907
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0.34238362312316895,
+                0.34238362312316895,
+                0.34238362312316895
+            ],
+            "name" : "whiteMaterial",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.04445510357618332,
+                    0.04445510357618332,
+                    0.04445510357618332,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4652380645275116
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 3,
+                        "NORMAL" : 4
+                    },
+                    "indices" : 5,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 1697,
+            "max" : [
+                0.9861980080604553,
+                -4.220799446105957,
+                0.9861983060836792
+            ],
+            "min" : [
+                -0.9861980080604553,
+                -11.288431167602539,
+                -0.9861987233161926
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 1697,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5123,
+            "count" : 7380,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 2002,
+            "max" : [
+                0.9862359762191772,
+                6.048445012391988e-15,
+                0.9874544739723206
+            ],
+            "min" : [
+                -0.9862359762191772,
+                -4.214953899383545,
+                -0.9874552488327026
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 2002,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5123,
+            "count" : 9180,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 20364,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 20364,
+            "byteOffset" : 20364
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14760,
+            "byteOffset" : 40728
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24024,
+            "byteOffset" : 55488
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24024,
+            "byteOffset" : 79512
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 18360,
+            "byteOffset" : 103536
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 121896,
+            "uri" : "pillar.bin"
+        }
+    ]
+}

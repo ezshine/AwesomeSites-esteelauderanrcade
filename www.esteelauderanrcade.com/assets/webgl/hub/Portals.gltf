@@ -1,0 +1,1021 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC3",
+      "max": [
+        1.0490000247955322,
+        0.0,
+        1.0490000247955322
+      ],
+      "min": [
+        -1.0490000247955322,
+        0.0,
+        -1.0490000247955322
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC4",
+      "max": [
+        0.99371224641799927,
+        0.0,
+        0.99371218681335449,
+        -1.0
+      ],
+      "min": [
+        -0.99371224641799927,
+        0.0,
+        -0.99371224641799927,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC2",
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5121,
+      "count": 84,
+      "type": "SCALAR",
+      "max": [
+        83.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        0.0,
+        0.99948638677597046
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -0.99948620796203613
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC4",
+      "max": [
+        0.99948632717132568,
+        0.0,
+        1.0,
+        -1.0
+      ],
+      "min": [
+        -0.99948620796203613,
+        0.0,
+        -0.99948620796203613,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC2",
+      "max": [
+        2.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5121,
+      "count": 588,
+      "type": "SCALAR",
+      "max": [
+        197.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 396,
+      "type": "VEC3",
+      "max": [
+        1.0349999666213989,
+        0.0,
+        1.034468412399292
+      ],
+      "min": [
+        -1.0349999666213989,
+        0.0,
+        -1.0344681739807129
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 396,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 396,
+      "type": "VEC4",
+      "max": [
+        0.99948632717132568,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.99948620796203613,
+        0.0,
+        -0.99948620796203613,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 396,
+      "type": "VEC2",
+      "max": [
+        37.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 1176,
+      "type": "SCALAR",
+      "max": [
+        395.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC3",
+      "max": [
+        1.2250000238418579,
+        0.0,
+        1.2243708372116089
+      ],
+      "min": [
+        -1.2250000238418579,
+        0.0,
+        -1.2243705987930298
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC4",
+      "max": [
+        0.99948644638061523,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.99948620796203613,
+        0.0,
+        -0.99948620796203613,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 198,
+      "type": "VEC2",
+      "max": [
+        32.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5121,
+      "count": 588,
+      "type": "SCALAR",
+      "max": [
+        197.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 174,
+      "type": "VEC3",
+      "max": [
+        0.83300000429153442,
+        0.0,
+        0.831778347492218
+      ],
+      "min": [
+        -0.83300000429153442,
+        0.0,
+        -0.831778347492218
+      ]
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 174,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 174,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        0.99853348731994629,
+        -1.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -0.99853348731994629,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 174,
+      "type": "VEC2",
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 174,
+      "type": "VEC2",
+      "max": [
+        1.0,
+        0.99999994039535522
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5121,
+      "count": 174,
+      "type": "SCALAR",
+      "max": [
+        173.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "UnityGLTF (2019.3.13f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Portals.bin",
+      "byteLength": 55580
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1008
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1008,
+      "byteLength": 1008
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2016,
+      "byteLength": 1344
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3360,
+      "byteLength": 672
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4032,
+      "byteLength": 84
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4116,
+      "byteLength": 2376
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6492,
+      "byteLength": 2376
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8868,
+      "byteLength": 3168
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12036,
+      "byteLength": 1584
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13620,
+      "byteLength": 588
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14208,
+      "byteLength": 4752
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 18960,
+      "byteLength": 4752
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23712,
+      "byteLength": 6336
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30048,
+      "byteLength": 3168
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 33216,
+      "byteLength": 2352
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35568,
+      "byteLength": 2376
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37944,
+      "byteLength": 2376
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 40320,
+      "byteLength": 3168
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 43488,
+      "byteLength": 1584
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 45072,
+      "byteLength": 588
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 45660,
+      "byteLength": 2088
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47748,
+      "byteLength": 2088
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 49836,
+      "byteLength": 2784
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 52620,
+      "byteLength": 1392
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 54012,
+      "byteLength": 1392
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 55404,
+      "byteLength": 176
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0
+      },
+      "name": "No Name"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      },
+      "name": "texture_material"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "Dummy"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "Collider"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1
+        }
+      ],
+      "name": "Outline"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0
+        }
+      ],
+      "name": "Particles"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 2
+        }
+      ],
+      "name": "Smoke"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23,
+            "TEXCOORD_1": 24
+          },
+          "indices": 25,
+          "material": 0
+        }
+      ],
+      "name": "Surface"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        8,
+        15,
+        22
+      ],
+      "translation": [
+        0.0,
+        0.7,
+        0.0
+      ],
+      "name": "Portals"
+    },
+    {
+      "children": [
+        2
+      ],
+      "rotation": [
+        0.020802632,
+        0.94889915,
+        -0.06402393,
+        0.308316
+      ],
+      "name": "PortalPivot1"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "rotation": [
+        0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        1.15,
+        1.15,
+        1.15
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -4.7
+      ],
+      "name": "Portal"
+    },
+    {
+      "mesh": 0,
+      "scale": [
+        0.87,
+        0.87,
+        0.87
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0011
+      ],
+      "name": "Collider"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        0.0,
+        0.001,
+        0.0
+      ],
+      "name": "Outline"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        0.0,
+        0.002,
+        0.0
+      ],
+      "name": "Particles"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        0.0,
+        0.0001,
+        0.0
+      ],
+      "name": "Smoke"
+    },
+    {
+      "mesh": 4,
+      "translation": [
+        0.0,
+        -0.001,
+        0.0
+      ],
+      "name": "Surface"
+    },
+    {
+      "children": [
+        9
+      ],
+      "rotation": [
+        0.0544620045,
+        0.5864519,
+        -0.03956896,
+        0.8071818
+      ],
+      "name": "PortalPivot2"
+    },
+    {
+      "children": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "rotation": [
+        0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        1.15,
+        1.15,
+        1.15
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -4.7
+      ],
+      "name": "Portal"
+    },
+    {
+      "mesh": 0,
+      "scale": [
+        0.87,
+        0.87,
+        0.87
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0011
+      ],
+      "name": "Collider"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        0.0,
+        0.001,
+        0.0
+      ],
+      "name": "Outline"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        0.0,
+        0.002,
+        0.0
+      ],
+      "name": "Particles"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        0.0,
+        0.0001,
+        0.0
+      ],
+      "name": "Smoke"
+    },
+    {
+      "mesh": 4,
+      "translation": [
+        0.0,
+        -0.001,
+        0.0
+      ],
+      "name": "Surface"
+    },
+    {
+      "children": [
+        16
+      ],
+      "rotation": [
+        0.0544620045,
+        -0.5864519,
+        0.03956896,
+        0.8071818
+      ],
+      "name": "PortalPivot3"
+    },
+    {
+      "children": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "rotation": [
+        0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        1.15,
+        1.15,
+        1.15
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -4.7
+      ],
+      "name": "Portal"
+    },
+    {
+      "mesh": 0,
+      "scale": [
+        0.87,
+        0.87,
+        0.87
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0011
+      ],
+      "name": "Collider"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        0.0,
+        0.001,
+        0.0
+      ],
+      "name": "Outline"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        0.0,
+        0.002,
+        0.0
+      ],
+      "name": "Particles"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        0.0,
+        0.0001,
+        0.0
+      ],
+      "name": "Smoke"
+    },
+    {
+      "mesh": 4,
+      "translation": [
+        0.0,
+        -0.001,
+        0.0
+      ],
+      "name": "Surface"
+    },
+    {
+      "children": [
+        23
+      ],
+      "rotation": [
+        0.020802632,
+        -0.9488991,
+        0.06402392,
+        0.308316
+      ],
+      "name": "PortalPivot4"
+    },
+    {
+      "children": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "rotation": [
+        0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        1.15,
+        1.15,
+        1.15
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -4.7
+      ],
+      "name": "Portal"
+    },
+    {
+      "mesh": 0,
+      "scale": [
+        0.87,
+        0.87,
+        0.87
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0011
+      ],
+      "name": "Collider"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        0.0,
+        0.001,
+        0.0
+      ],
+      "name": "Outline"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        0.0,
+        0.002,
+        0.0
+      ],
+      "name": "Particles"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        0.0,
+        0.0001,
+        0.0
+      ],
+      "name": "Smoke"
+    },
+    {
+      "mesh": 4,
+      "translation": [
+        0.0,
+        -0.001,
+        0.0
+      ],
+      "name": "Surface"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Portals"
+    }
+  ]
+}
